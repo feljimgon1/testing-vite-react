@@ -1,11 +1,10 @@
-import React from "react"
 import "./App.css"
 
 function App() {
 
   return (
     <div className="App">
-      <h1>Vite + React</h1>
+      <h1>Vite + React Need to change sth</h1>
     </div>
   )
 }
